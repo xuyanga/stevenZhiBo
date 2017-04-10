@@ -13,5 +13,9 @@ private Context mContext;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(mContext,"ssssssssss",Toast.LENGTH_LONG).show();
+        Toast.makeText(mContext,"ssssssssss",Toast.LENGTH_LONG).show();
+        Toast.makeText(mContext,"ssssssssss",Toast.LENGTH_LONG).show();
+        Toast.makeText(mContext,"ssssssssss",Toast.LENGTH_LONG).show();
+        Toast.makeText(mContext,"ssssssssss",Toast.LENGTH_LONG).show();
     }
 }
